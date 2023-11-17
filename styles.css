@@ -1,0 +1,29 @@
+/*  ----------------------------------- file created by me --------------------------------*/
+img {
+    height: 350px;
+    width: 350px;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
